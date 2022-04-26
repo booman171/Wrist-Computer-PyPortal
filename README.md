@@ -4,7 +4,7 @@ Wrist-worn interface for the AdaFruit PyPortal
 
 CAD Parts: https://www.thingiverse.com/thing:5350437
 
-![alt text](https://github.com/booman171/Wrist-Computer-PyPortal/blob/main/wrist.JPG?raw=true)
+![alt text](https://github.com/booman171/Wrist-Computer-PyPortal/blob/main/wrist.jpg?raw=true)
 
 # Summary
 This is a wrist worn device I am designing as part of a larger body-worn project. This was heavily inspired by the wrist-worn computer the astronaut wears in the movie 'The Martian', as well as the Pip-boy from Fallout.
